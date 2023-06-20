@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zomato/static/css/main.200c33f2.css",
+    "main.js": "/zomato/static/js/main.e474d267.js",
+    "static/js/787.9c166d28.chunk.js": "/zomato/static/js/787.9c166d28.chunk.js",
+    "index.html": "/zomato/index.html",
+    "main.200c33f2.css.map": "/zomato/static/css/main.200c33f2.css.map",
+    "main.e474d267.js.map": "/zomato/static/js/main.e474d267.js.map",
+    "787.9c166d28.chunk.js.map": "/zomato/static/js/787.9c166d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200c33f2.css",
+    "static/js/main.e474d267.js"
+  ]
+}
